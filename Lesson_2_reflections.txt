@@ -1,0 +1,7 @@
+Lesson_2_reflections.txt
+
+4. Reflect: Initializing a Repository
+What happens when you initialize a repository? Why do you need to do it? When you initialize a repository, you are creating a group of files that git is tracking every time you save a commit. You need to do this because you can't save commits without initializing a repository. Commits are extremely useful and should be used.
+
+7. Reflect: Staging Area
+How is the staging area different from the working directory and the repository? What value do you think it offers? The staging area is a sort of waiting room, where files selected can be put into a commit. It is valuable because this lets commits be only certain files, which is a way to only commit files that were changed. This makes it easier during bug fixing and saves space.
