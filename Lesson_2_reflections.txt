@@ -14,3 +14,6 @@ What are some situations when branches would be helpful in keeping your history 
 
 20. Reflect: Visualizing with Diagrams
 How do the diagrams help you visualize the branch structure? They help me understand how commits are connected by branches. The diagrams I used are ones based off a tree and ones based off roots, since they were the easiest to understand.
+
+25. Reflect: Merging Two Branches
+ What is the result of merging two branches together? Why do we represent it in the diagram the way we do? The result of merging two branches is one branch, with the commits of both previous branches. This is also a way to re-introduce experimental files into the main branch. This way the changes that were made can be added to the final product. We represent it using the tree diagram because it is the easiast to understand, which allows the information to be understood better.
