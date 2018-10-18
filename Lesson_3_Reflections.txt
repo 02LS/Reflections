@@ -1,2 +1,5 @@
 7. When would you want to use a remote repository rather than keeping all your work local?
 If you were working on a project with others, having a cloud save would be useful so each member of the team would be up to date. It is also a good way to prevent data loss, if the local machine is destroyed, then the cloud save can replace the files.
+
+10. Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+This allows files that are being changed on the local machine not be online. Maybe an experimental change is being tested on the local machine that you don't want to be made public, or it might save and upload while you are in the middle of writings code. If it was an automatic upload, these would be problems. 
