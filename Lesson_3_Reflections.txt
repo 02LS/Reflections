@@ -12,3 +12,6 @@ You would be able to work on the latest state offline, allowing you to not get b
 
 25. How would you collaborate without using Git or Github? What would be easier, and what would be harder? 
 It would be harder to manage files, changes would have to be manually added to a txt document, and merging changes would be tedious. On the good side, there may be more versatile file managing programs to use instead of Git.
+
+31. When would you want to make changes in a seperate branch rather than directly in master? What benefits does each approach have? 
+Making changes in a seperate branch allows for corrections before a merge. This helps prevent user error, and is easier for collaboration projects. Making changes directly in master would be faster and more direct, but would be more prone to user error and is not collaboration friendly. (harder for a collaboration project if they make changes directly in master)
